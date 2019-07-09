@@ -1,2 +1,2 @@
-# ladewy.github.io
+# lazdwy.github.io
 个人博客
